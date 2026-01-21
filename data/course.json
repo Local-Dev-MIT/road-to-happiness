@@ -1,0 +1,28 @@
+{
+  "term": "Spring",
+  "year": "2026",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "the-road-to-happiness"
+  },
+  "course_image": {
+    "content": "",
+    "website": "the-road-to-happiness"
+  },
+  "course_title": "The road to happiness",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This is a course about staying happy",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RTH100",
+  "learning_resource_types": [],
+  "site_uid": "d3126ca8-6dde-48e3-8a23-e976c65ca7e4",
+  "site_short_id": "road-to-happiness",
+  "site_url_path": "courses/rth100-the-road-to-happiness-spring-2026"
+}
